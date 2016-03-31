@@ -1,0 +1,28 @@
+name: offWhiteCottage
+favicon: null
+layout_spectrum: 0.5411914249416441
+typography_spectrum: 0.6080412152223289
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9699252701830119
+  lightness: 0.9137021333444864
+  saturation: 0.2109305013436824
+  rhythmicContrast: 0.17939558159559965
+purpose: []
